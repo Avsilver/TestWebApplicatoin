@@ -23,3 +23,6 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+
+// Adding comments to the visual studio version of the code
